@@ -997,12 +997,16 @@ iframe {
   background: #08aeac;
   width: 20%;
 }
+.progress-bar-1 {
+  background: #009688;
+}
 .progress-bar-2 {
   background: #021533;
 }
 .progress-bar-3 {
   background: #d9212a;
-}
+ }
+
 /* ==========================================================
 ! 13. SECTION: Portfolio
 ========================================================== */
