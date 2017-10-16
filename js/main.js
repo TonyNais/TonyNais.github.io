@@ -5,7 +5,6 @@
 //Begin - Window Load
 $(window).load(function(){
 
-
 	//==============___Page Loader___================
   
   $('#page-loader').delay(300).fadeOut(400, function(){
@@ -52,9 +51,9 @@ $('.map').on('mouseleave', function(){
 
 
 //==============___Scrollbars___================
-$('.section-vcardbody').perfectScrollbar({
-  wheelSpeed: 0.9
-});
+//$('.section-vcardbody').perfectScrollbar({
+//  wheelSpeed: 0.9
+//});
 
 //==============___Menu & Pages Animation___================
 
